@@ -1,0 +1,15 @@
+---
+name: Nolio-552-AIO
+description: RA552_TEST
+keywords: ''
+type: Java
+documentation: ''
+images:
+- name: darksolar_rhel6.6-gcc4.9_latest
+  source: darksolar/rhel6.6-gcc4.9:latest
+  category: 552-AIO
+  type: Default
+- name: nolio-mysql1
+  source: centurylink/mysql:latest
+  category: 552-AIO
+  type: Default
